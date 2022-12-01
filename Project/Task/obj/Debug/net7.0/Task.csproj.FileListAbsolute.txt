@@ -1,0 +1,5 @@
+C:\Users\Doctor_SHIZA\Desktop\Project\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+C:\Users\Doctor_SHIZA\Desktop\Project\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doctor_SHIZA\Desktop\Project\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+C:\Users\Doctor_SHIZA\Desktop\Project\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+C:\Users\Doctor_SHIZA\Desktop\Project\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
